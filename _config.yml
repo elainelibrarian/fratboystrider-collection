@@ -14,20 +14,20 @@
 # on GitHub Pages it is your github repository's name prefixed with a /
 #baseurl: /collectionbuilder-gh 
 # location of code, the full url to your github repository
-source-code: https://github.com/CollectionBuilder/collectionbuilder-sheets
+source-code: https://github.com/elainelibrarian/fratboystrider-collection
 
 ##########
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder-Sheets
+title: F.B. Strider Sketchbooks
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: a digital collection of the physical works
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-Sheets is a template for creating simple digital exhibit websites by loading collection metadata directly from a CSV, designed for teaching digital library skills."
+description: "F.B. Strider, also known as fratboystrider, is a cartoonist, illustrator, and writer. His work reflects his multicultural Caribbean upbringing and involvement in alternative subcultures. The physical art collected here touches on gender identity, queerness, unhealthy relationships, and more, and contains themes that may be triggering for some users."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: elainelibrarian
 
 ##########
 # COLLECTION SETTINGS
@@ -37,7 +37,7 @@ author: CollectionBuilder
 # e.g. relative path "/assets/demo-metadata.csv"
 # e.g. published google sheet "https://docs.google.com/spreadsheets/d/e/2PACX-1vSn7AA-cbsXT3_nNUGftc1ab-CKXOJHMQCIENeR9NHElbyI9_qA99o0-HNZdG04v-M2_N21bUe_krQQ/pub?output=csv"
 # e.g. on GitHub use the raw link "https://raw.githubusercontent.com/CollectionBuilder/collectionbuilder-sample-data/main/psychiana_cbdemo_gh.csv"
-metadata-csv: 
+metadata-csv: fbs_metadata
 
 ##########
 # Site/Organization Branding 
@@ -52,7 +52,7 @@ metadata-csv:
 # ROBOTS EXCLUDE
 #
 # set noindex to true if you do NOT want Google to index your site
-# noindex: true 
+noindex: true 
 
 ##########
 # BUILD SETTINGS 
