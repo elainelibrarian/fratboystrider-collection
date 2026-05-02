@@ -3,10 +3,14 @@ title,Title,
 creator,Creator,
 date,Date Created,
 description,Description,
+text,Inscription
 subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
+genre,Genre
+measurements,Dimensions
+material,Materials
+inspiration,Inspirations
+note,Note
+language,Language
 source,Source
 identifier,Source Identifier,,
 type,Type,
