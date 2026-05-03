@@ -10,6 +10,10 @@ credits: true
 
 {% include feature/jumbotron.html objectid="/assets/img/jj-ying-WmnsGyaFnCQ-unsplash_opt.jpg" %}
 
+## About the Artist
+
+Strider has a BFA in Comics & Narrative Practice from the Columbus College of Art and Design. He was born and raised in Borikén, Puerto Rico, where he fell in love with the horror genre and vampires. His work reflects his multicultural Caribbean upbringing, love for the gothic and macabre, and involvement in alternative and queer subcultures. The pilot of his original comic *Heartstrings* is available to read for free on [Webtoon](https://www.webtoons.com/en/canvas/heartstrings-pilot/list?title_no=994134). Visit [his website](https://fratboystrider.carrd.co/) for links to his active social media accounts, curated digital portfolios, and more.
+
 ## About CollectionBuilder-Sheets
 
 This site is generated using [CollectionBuilder-Sheets](https://github.com/CollectionBuilder/collectionbuilder-sheets), a template  for creating simple digital exhibit websites by loading collection metadata directly from a CSV, designed for teaching digital library skills and easy hosting on GitHub Pages.
