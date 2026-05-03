@@ -2,4 +2,3 @@ field,display_name,btn,hidden,sort_name
 date,Date,,,Date
 subject,,true
 genre,Genre,,,Genre
-material,Materials,,,Materials
