@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid=fbs_01_13 %}
+{% include feature/jumbotron.html objectid="fbs_01_13" %}
 
 ## About the Artist
 
