@@ -1,7 +1,7 @@
 ---
 title: CollectionBuilder
 layout: about
-permalink: /tech.md
+permalink: /tech.html
 credits: true
 ---
 
